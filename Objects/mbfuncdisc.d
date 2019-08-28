@@ -1,0 +1,9 @@
+.\objects\mbfuncdisc.o: Modbus\functions\mbfuncdisc.c
+.\objects\mbfuncdisc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\mbfuncdisc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\mbfuncdisc.o: .\Modbus\port\port.h
+.\objects\mbfuncdisc.o: .\Modbus\include\mb.h
+.\objects\mbfuncdisc.o: .\Modbus\include\mbport.h
+.\objects\mbfuncdisc.o: .\Modbus\include\mbproto.h
+.\objects\mbfuncdisc.o: .\Modbus\include\mbframe.h
+.\objects\mbfuncdisc.o: .\Modbus\include\mbconfig.h
